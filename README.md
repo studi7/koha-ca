@@ -7,3 +7,7 @@ Versió 3.12 i superiors.
 
 Continuació de la traducció ca-ES de Koha Translation Project
 http://translate.koha-community.org/ca_ES/312/
+
+OPAC -- ok
+Preferences -- to-do
+STAFF -- to-do
