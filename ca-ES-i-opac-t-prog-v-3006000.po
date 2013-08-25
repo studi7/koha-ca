@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Koha 3.10\n"
 "POT-Creation-Date: 2013-08-15 23:22-0300\n"
-"PO-Revision-Date: 2013-08-17 13:32+0100\n"
+"PO-Revision-Date: 2013-08-25 21:38+0100\n"
 "Last-Translator: Roger Pàmies <roger.pamies@gmail.com>\n"
 "Language-Team: Koha Translation Team <koha-translate@lists.koha-community.org>\n"
 "Language: cat\n"
@@ -3990,18 +3990,18 @@ msgstr "%s / 5 (en %s taxes)"
 #: opac-tmpl/prog/en/modules/opac-memberentry.tt:289
 #: opac-tmpl/prog/en/modules/opac-memberentry.tt:481
 #: opac-tmpl/prog/en/modules/opac-memberentry.tt:648
-#, fuzzy, c-format
+#, c-format
 msgid "%s Address 2:"
-msgstr "Adreça:"
+msgstr "%s Adreça 2:"
 
 #. For the first occurrence,
 #. %1$s:  END
 #: opac-tmpl/prog/en/modules/opac-memberentry.tt:275
 #: opac-tmpl/prog/en/modules/opac-memberentry.tt:467
 #: opac-tmpl/prog/en/modules/opac-memberentry.tt:634
-#, fuzzy, c-format
+#, c-format
 msgid "%s Address:"
-msgstr "Adreça:"
+msgstr "%s Adreça:"
 
 #. %1$s:  IF ( GROUP_RESULT.onloancount )
 #. %2$s:  GROUP_RESULT.onloancount
@@ -4059,15 +4059,15 @@ msgstr "%s Prestats (%s), %s %s Retirats (%s), %s %s%s Perduts (%s),%s%s %s Malm
 #: opac-tmpl/prog/en/modules/opac-memberentry.tt:303
 #: opac-tmpl/prog/en/modules/opac-memberentry.tt:495
 #: opac-tmpl/prog/en/modules/opac-memberentry.tt:662
-#, fuzzy, c-format
+#, c-format
 msgid "%s City:"
-msgstr "Ciutat:"
+msgstr "%s Ciutat:"
 
 #. %1$s:  END
 #: opac-tmpl/prog/en/modules/opac-memberentry.tt:579
-#, fuzzy, c-format
+#, c-format
 msgid "%s Contact Note:"
-msgstr "Nota de contingut: "
+msgstr "%s Nota de contacte: "
 
 #. %1$s:  IF (errcode==1)
 #. %2$s:  ELSE
@@ -4082,15 +4082,15 @@ msgstr "%s No es por crear un nou llistat. Comprova que el nom és únic %s Ho s
 #: opac-tmpl/prog/en/modules/opac-memberentry.tt:345
 #: opac-tmpl/prog/en/modules/opac-memberentry.tt:537
 #: opac-tmpl/prog/en/modules/opac-memberentry.tt:704
-#, fuzzy, c-format
+#, c-format
 msgid "%s Country:"
-msgstr "País:"
+msgstr "%s País:"
 
 #. %1$s:  END
 #: opac-tmpl/prog/en/modules/opac-memberentry.tt:165
-#, fuzzy, c-format
+#, c-format
 msgid "%s Date of birth:"
-msgstr "Data de naixement:"
+msgstr "%s Data de naixement:"
 
 #. For the first occurrence,
 #. %1$s:  IF ( koha_spsuggest )
@@ -4102,29 +4102,29 @@ msgstr "%s Has volgut dir: "
 
 #. %1$s:  END
 #: opac-tmpl/prog/en/modules/opac-memberentry.tt:565
-#, fuzzy, c-format
+#, c-format
 msgid "%s Email:"
-msgstr "Correu electrònic:"
+msgstr "%s Correu electrònic:"
 
 #. %1$s:  END
 #: opac-tmpl/prog/en/modules/opac-memberentry.tt:441
-#, fuzzy, c-format
+#, c-format
 msgid "%s Fax:"
-msgstr "Fax:"
+msgstr "%s Fax:"
 
 #. For the first occurrence,
 #. %1$s:  END
 #: opac-tmpl/prog/en/modules/opac-memberentry.tt:151
 #: opac-tmpl/prog/en/modules/opac-memberentry.tt:620
-#, fuzzy, c-format
+#, c-format
 msgid "%s First name:"
-msgstr "Nom:"
+msgstr "%s Nom:"
 
 #. %1$s:  END
 #: opac-tmpl/prog/en/modules/opac-memberentry.tt:78
 #, fuzzy, c-format
 msgid "%s Home Library:"
-msgstr "Biblioteca d'origen:"
+msgstr "%s Biblioteca principal:"
 
 #. %1$s:  END
 #: opac-tmpl/prog/en/modules/opac-memberentry.tt:184
@@ -4164,9 +4164,9 @@ msgstr "%s Ítem(s) prestats"
 
 #. %1$s:  INCLUDE 'doc-head-open.inc'
 #: opac-tmpl/prog/en/modules/opac-showmarc.tt:1
-#, fuzzy, c-format
+#, c-format
 msgid "%s MARC view"
-msgstr "%sVista MARC "
+msgstr "%s Vista MARC "
 
 #. %1$s:  END
 #: opac-tmpl/prog/en/modules/opac-memberentry.tt:399
@@ -4198,9 +4198,9 @@ msgstr "%s No renovable%s "
 
 #. %1$s:  END
 #: opac-tmpl/prog/en/modules/opac-memberentry.tt:198
-#, fuzzy, c-format
+#, c-format
 msgid "%s Other names:"
-msgstr "Un altre nom:"
+msgstr "%s Altres noms:"
 
 #. %1$s:  IF ( PassMismatch )
 #. %2$s:  END
@@ -4218,9 +4218,9 @@ msgstr "%s La contrasenya no coincideix. Reintrodueix la contrasenya. %s %s La n
 #. %1$s:  END
 #: opac-tmpl/prog/en/modules/opac-memberentry.tt:551
 #: opac-tmpl/prog/en/modules/opac-memberentry.tt:718
-#, fuzzy, c-format
+#, c-format
 msgid "%s Phone:"
-msgstr "Telèfon:"
+msgstr "%s Telèfon:"
 
 #. %1$s:  END
 #: opac-tmpl/prog/en/modules/sco/sco-main.tt:148
@@ -4230,15 +4230,15 @@ msgstr "%s Si us plau, contacta amb personal de la biblioteca. "
 
 #. %1$s:  END
 #: opac-tmpl/prog/en/modules/opac-memberentry.tt:413
-#, fuzzy, c-format
+#, c-format
 msgid "%s Primary email:"
-msgstr "Correu electrònic principal:"
+msgstr "%s Correu electrònic principal:"
 
 #. %1$s:  END
 #: opac-tmpl/prog/en/modules/opac-memberentry.tt:371
-#, fuzzy, c-format
+#, c-format
 msgid "%s Primary phone:"
-msgstr "Telèfon principal:"
+msgstr "%s Telèfon principal:"
 
 #. %1$s:  SEARCH_RESULT.num_critics_pro
 #: opac-tmpl/prog/en/modules/opac-results.tt:580
@@ -4254,9 +4254,9 @@ msgstr "%s Cites"
 
 #. %1$s:  END
 #: opac-tmpl/prog/en/modules/opac-memberentry.tt:115
-#, fuzzy, c-format
+#, c-format
 msgid "%s Salutation:"
-msgstr "%s Cites"
+msgstr "%s Salutació"
 
 #. %1$s:  LibraryName |html
 #: opac-tmpl/prog/en/modules/opac-opensearch.tt:4
@@ -6340,9 +6340,9 @@ msgid "/cgi-bin/koha/opac-authoritiesdetail.pl?authid="
 msgstr "/cgi-bin/koha/opac-authoritiesdetail.pl?authid="
 
 #: opac-tmpl/prog/en/xslt/MARC21slim2OPACDetail.xsl:987
-#, fuzzy, c-format
+#, c-format
 msgid "/cgi-bin/koha/opac-authoritiesdetail.pl?authid=\""
-msgstr "/cgi-bin/koha/opac-authoritiesdetail.pl?authid="
+msgstr "/cgi-bin/koha/opac-authoritiesdetail.pl?authid=\""
 
 #: opac-tmpl/prog/en/xslt/NORMARCslim2OPACDetail.xsl:257
 #: opac-tmpl/prog/en/xslt/NORMARCslimUtils.xsl:196
@@ -6401,9 +6401,9 @@ msgid "/cgi-bin/koha/opac-search.pl?q=an:"
 msgstr "/cgi-bin/koha/opac-search.pl?q=an:"
 
 #: opac-tmpl/prog/en/xslt/MARC21slim2OPACDetail.xsl:962
-#, fuzzy, c-format
+#, c-format
 msgid "/cgi-bin/koha/opac-search.pl?q=an:\""
-msgstr "/cgi-bin/koha/opac-search.pl?q=an:"
+msgstr "/cgi-bin/koha/opac-search.pl?q=an:\""
 
 #: opac-tmpl/prog/en/xslt/NORMARCslim2OPACDetail.xsl:101
 #: opac-tmpl/prog/en/xslt/NORMARCslim2OPACDetail.xsl:122
@@ -6414,9 +6414,9 @@ msgid "/cgi-bin/koha/opac-search.pl?q=au:"
 msgstr "/cgi-bin/koha/opac-search.pl?q=au:"
 
 #: opac-tmpl/prog/en/xslt/MARC21slim2OPACDetail.xsl:965
-#, fuzzy, c-format
+#, c-format
 msgid "/cgi-bin/koha/opac-search.pl?q=au:\""
-msgstr "/cgi-bin/koha/opac-search.pl?q=au:"
+msgstr "/cgi-bin/koha/opac-search.pl?q=au:\""
 
 #: opac-tmpl/prog/en/xslt/NORMARCslim2OPACDetail.xsl:217
 #: opac-tmpl/prog/en/xslt/NORMARCslim2OPACResults.xsl:383
@@ -6460,9 +6460,9 @@ msgstr "/cgi-bin/koha/opac-search.pl?q=ti,phr:"
 #: opac-tmpl/prog/en/xslt/MARC21slim2OPACResults.xsl:995
 #: opac-tmpl/prog/en/xslt/MARC21slim2OPACDetail.xsl:558
 #: opac-tmpl/prog/en/xslt/MARC21slim2OPACDetail.xsl:561
-#, fuzzy, c-format
+#, c-format
 msgid "/cgi-bin/koha/tracklinks.pl?uri="
-msgstr "/cgi-bin/koha/opac-search.pl?q="
+msgstr "/cgi-bin/koha/tracklinks.pl?uri="
 
 #: opac-tmpl/prog/en/xslt/MARC21slim2OPACDetail.xsl:156
 #, c-format
@@ -6713,9 +6713,9 @@ msgstr "; Type periodikum: "
 #: opac-tmpl/prog/en/xslt/MARC21slim2OPACResults.xsl:995
 #: opac-tmpl/prog/en/xslt/MARC21slim2OPACDetail.xsl:558
 #: opac-tmpl/prog/en/xslt/MARC21slim2OPACDetail.xsl:561
-#, fuzzy, c-format
+#, c-format
 msgid ";biblionumber="
-msgstr "[% biblionumber |url %]"
+msgstr ";biblionumber="
 
 #. %1$s:  HTML5MediaParent
 #. %2$s:  FOREACH HTML5MediaSet IN HTML5MediaSets
@@ -6935,9 +6935,9 @@ msgid "Additional content types for books/printed materials"
 msgstr "Tipus de continguts addicionals per llibres/materials impresos "
 
 #: opac-tmpl/prog/en/modules/opac-advsearch.tt:218
-#, fuzzy, c-format
+#, c-format
 msgid "Adolescent"
-msgstr "Adolescent; "
+msgstr "Adolescent"
 
 #: opac-tmpl/prog/en/xslt/MARC21slim2OPACResults.xsl:858
 #, c-format
@@ -7002,14 +7002,14 @@ msgid "Also note that you must return all checked out items before your card exp
 msgstr "Has de retornar tots els teus préstecs abans que caduqui el teu carnet."
 
 #: opac-tmpl/prog/en/modules/opac-memberentry.tt:459
-#, fuzzy, c-format
+#, c-format
 msgid "Alternate address"
-msgstr "Adreça alternativa:"
+msgstr "Adreça alternativa"
 
 #: opac-tmpl/prog/en/modules/opac-memberentry.tt:598
-#, fuzzy, c-format
+#, c-format
 msgid "Alternate contact"
-msgstr "Contacte alternatiu:"
+msgstr "Contacte alternatiu"
 
 #: opac-tmpl/prog/en/modules/opac-user.tt:233
 #: opac-tmpl/prog/en/modules/opac-user.tt:244
@@ -7367,9 +7367,9 @@ msgstr "Autor:"
 
 #: opac-tmpl/prog/en/includes/masthead.inc:135
 #: opac-tmpl/prog/en/modules/opac-authorities-home.tt:17
-#, fuzzy, c-format
+#, c-format
 msgid "Authority search"
-msgstr "Resultats de la cerca per autoritat"
+msgstr "Cerca per autoritat"
 
 #: opac-tmpl/prog/en/modules/opac-authoritiessearchresultlist.tt:15
 #, c-format
@@ -7516,9 +7516,9 @@ msgstr "Descripció: "
 
 #: opac-tmpl/prog/en/modules/opac-downloadcart.tt:14
 #: opac-tmpl/prog/en/modules/opac-downloadshelf.tt:22
-#, fuzzy, c-format
+#, c-format
 msgid "BibTeX"
-msgstr "BibTex"
+msgstr "BibTeX"
 
 #: opac-tmpl/prog/en/modules/opac-authoritiessearchresultlist.tt:52
 #, c-format
@@ -7546,9 +7546,9 @@ msgid "Bibliography: "
 msgstr "Bibliografia: "
 
 #: opac-tmpl/prog/en/includes/subtypes_unimarc.inc:153
-#, fuzzy, c-format
+#, c-format
 msgid "Biennial"
-msgstr "Triennal"
+msgstr "Biennal"
 
 #: opac-tmpl/prog/en/xslt/NORMARCslim2OPACResults.xsl:227
 #, c-format
@@ -15200,9 +15200,9 @@ msgid "account, %s please "
 msgstr "compte, %s "
 
 #: opac-tmpl/prog/en/xslt/MARC21slim2OPACDetail.xsl:411
-#, fuzzy, c-format
+#, c-format
 msgid "acdef"
-msgstr "acdeq"
+msgstr "acdef"
 
 #: opac-tmpl/prog/en/xslt/NORMARCslimUtils.xsl:122
 #: opac-tmpl/prog/en/xslt/UNIMARCslim2OPACDetail.xsl:560
@@ -15218,20 +15218,20 @@ msgid "adfklmor"
 msgstr "adfklmor"
 
 #: opac-tmpl/prog/en/includes/subtypes_unimarc.inc:13
-#, fuzzy, c-format
+#, c-format
 msgid "adult, General"
-msgstr "Adult, General"
+msgstr "adult, General"
 
 #: opac-tmpl/prog/en/includes/subtypes_unimarc.inc:12
-#, fuzzy, c-format
+#, c-format
 msgid "adult, serious"
-msgstr "Adult, important"
+msgstr "adult, important"
 
 #: opac-tmpl/prog/en/modules/opac-detail.tt:548
 #: opac-tmpl/prog/en/modules/opac-detail.tt:653
-#, fuzzy, c-format
+#, c-format
 msgid "all"
-msgstr "Braille"
+msgstr "tot"
 
 #: opac-tmpl/prog/en/modules/opac-shelves.tt:239
 #, c-format
@@ -15304,9 +15304,9 @@ msgstr "article"
 
 #: opac-tmpl/prog/en/xslt/NORMARCslim2OPACDetail.xsl:246
 #: opac-tmpl/prog/en/xslt/NORMARCslim2OPACResults.xsl:412
-#, fuzzy, c-format
+#, c-format
 msgid "at"
-msgstr "a_t"
+msgstr "at"
 
 #. %1$s:  WAITIN.branch
 #. %2$s:  ELSE
