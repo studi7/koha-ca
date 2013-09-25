@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Koha 3.10\n"
 "POT-Creation-Date: 2013-08-15 23:22-0300\n"
-"PO-Revision-Date: 2013-08-25 21:38+0100\n"
-"Last-Translator: Roger Pàmies <roger.pamies@gmail.com>\n"
+"PO-Revision-Date: 2013-09-25 15:17+0100\n"
+"Last-Translator: Roger Pàmies <info@studi7.com>\n"
 "Language-Team: Koha Translation Team <koha-translate@lists.koha-community.org>\n"
 "Language: cat\n"
 "MIME-Version: 1.0\n"
@@ -5979,7 +5979,7 @@ msgstr "(Utilitza SRU en el seu lloc)"
 #: opac-tmpl/prog/en/modules/opac-shelves.tt:450
 #, c-format
 msgid "(done)"
-msgstr ""
+msgstr "(fet)"
 
 #. SCRIPT
 #: opac-tmpl/prog/en/includes/datatables-strings.inc:1
@@ -6025,7 +6025,7 @@ msgid "(su"
 msgstr "(el teu"
 
 #: opac-tmpl/prog/en/xslt/MARC21slim2OPACResults.xsl:1089
-#, fuzzy, c-format
+#, c-format
 msgid ")"
 msgstr ") "
 
@@ -7783,9 +7783,9 @@ msgstr "Signatura topogràfica (Z-A a 9-0)"
 
 #. %1$s:  subscription.callnumber
 #: opac-tmpl/prog/en/modules/opac-detail.tt:1153
-#, fuzzy, c-format
+#, c-format
 msgid "Callnumber: %s"
-msgstr "Signatura topogràfica"
+msgstr "Callnumber: %s"
 
 #: opac-tmpl/prog/en/modules/opac-review.tt:75
 #: opac-tmpl/prog/en/modules/opac-passwd.tt:37
@@ -8120,9 +8120,9 @@ msgstr "Comentari:"
 
 #. %1$s:  reviews.size || 0
 #: opac-tmpl/prog/en/modules/opac-detail.tt:950
-#, fuzzy, c-format
+#, c-format
 msgid "Comments ( %s )"
-msgstr "Comentaris ( %s%s%s%s )"
+msgstr "Comentaris ( %s )"
 
 #: opac-tmpl/prog/en/modules/opac-review.tt:71
 #, c-format
@@ -8263,9 +8263,9 @@ msgstr "Data de copyright:"
 
 #: opac-tmpl/prog/en/modules/opac-shelves.tt:321
 #: opac-tmpl/prog/en/modules/opac-shelves.tt:323
-#, fuzzy, c-format
+#, c-format
 msgid "Copyright date"
-msgstr "Data de copyright:"
+msgstr "Data de copyright"
 
 #. %1$s:  BIBLIO_RESULT.copyrightdate
 #: opac-tmpl/prog/en/modules/opac-sendbasket.tt:88
@@ -8369,7 +8369,7 @@ msgid "Damaged ("
 msgstr "Malmès ("
 
 #: opac-tmpl/prog/en/includes/subtypes_unimarc.inc:133
-#, fuzzy, c-format
+#, c-format
 msgid "Database"
 msgstr "base de dades"
 
@@ -8594,9 +8594,9 @@ msgid "Diskografier"
 msgstr "Discografia"
 
 #: opac-tmpl/prog/en/xslt/MARC21slim2OPACDetail.xsl:744
-#, fuzzy, c-format
+#, c-format
 msgid "Dissertation note: "
-msgstr "dissertació o tesi"
+msgstr "Nota de dissertació:"
 
 #: opac-tmpl/prog/en/modules/opac-shelves.tt:205
 #: opac-tmpl/prog/en/modules/opac-shelves.tt:213
@@ -8631,9 +8631,9 @@ msgid "Don't have a password yet?"
 msgstr "No tens contrasenya encara?"
 
 #: opac-tmpl/prog/en/modules/opac-main.tt:61
-#, fuzzy, c-format
+#, c-format
 msgid "Don't have an account? "
-msgstr "No tens contrasenya encara?"
+msgstr "No tens compte?"
 
 #. SCRIPT
 #: opac-tmpl/prog/en/includes/calendar.inc:1
@@ -9298,9 +9298,9 @@ msgid "Fysiske bøker"
 msgstr "Fysiske bøker"
 
 #: opac-tmpl/prog/en/modules/opac-advsearch.tt:221
-#, fuzzy, c-format
+#, c-format
 msgid "General"
-msgstr "General; "
+msgstr "General"
 
 #: opac-tmpl/prog/en/xslt/MARC21slim2OPACResults.xsl:864
 #, c-format
@@ -9442,12 +9442,12 @@ msgstr "Manuals"
 #: opac-tmpl/prog/en/xslt/NORMARCslim2OPACDetail.xsl:523
 #, c-format
 msgid "Har delvis tatt opp: "
-msgstr "Ha dirigido en parte: "
+msgstr "Ha dirigit en part: "
 
 #: opac-tmpl/prog/en/xslt/NORMARCslim2OPACDetail.xsl:520
 #, c-format
 msgid "Har tatt opp: "
-msgstr "Ha tomado: "
+msgstr "Ha pres: "
 
 #: opac-tmpl/prog/en/modules/ilsdi.tt:697
 #, c-format
@@ -13589,9 +13589,9 @@ msgid "Th"
 msgstr ""
 
 #: opac-tmpl/prog/en/modules/opac-memberentry-update-submitted.tt:17
-#, fuzzy, c-format
+#, c-format
 msgid "Thank you"
-msgstr "Gràcies!"
+msgstr "Gràcies"
 
 #: opac-tmpl/prog/en/modules/opac-user.tt:86
 #, c-format
@@ -14131,7 +14131,6 @@ msgstr "Tipus d'encapçalament"
 #. INPUT type=text name=q
 #: opac-tmpl/prog/en/includes/masthead.inc:83
 #: opac-tmpl/prog/en/includes/masthead.inc:85
-#, fuzzy
 msgid "Type search term"
 msgstr "Introdueix els termes de cerca"
 
@@ -14284,9 +14283,9 @@ msgstr "Nom d'usuari:"
 
 #. %1$s:  borrower.userid
 #: opac-tmpl/prog/en/modules/opac-registration-confirmation.tt:19
-#, fuzzy, c-format
+#, c-format
 msgid "Username: %s "
-msgstr "Nom d'usuari:"
+msgstr "Nom d'usuari: %s"
 
 #: opac-tmpl/prog/en/modules/opac-reserve.tt:183
 #, c-format
@@ -14327,9 +14326,9 @@ msgid "VM"
 msgstr "VM"
 
 #: opac-tmpl/prog/en/modules/opac-memberentry.tt:734
-#, fuzzy, c-format
+#, c-format
 msgid "Verification:"
-msgstr "ficció"
+msgstr "Verificació: "
 
 #: opac-tmpl/prog/en/includes/subtypes_unimarc.inc:114
 #, c-format
@@ -14411,9 +14410,9 @@ msgid "Visual Material"
 msgstr "Material Visual"
 
 #: opac-tmpl/prog/en/xslt/MARC21slim2OPACDetail.xsl:87
-#, fuzzy, c-format
+#, c-format
 msgid "Visual material"
-msgstr "material visual"
+msgstr "Material visual"
 
 #: opac-tmpl/prog/en/xslt/NORMARCslim2OPACResults.xsl:735
 #, c-format
@@ -14738,9 +14737,9 @@ msgid "Your account will not be activated until you follow the link provided in 
 msgstr ""
 
 #: opac-tmpl/prog/en/modules/opac-user.tt:97
-#, fuzzy, c-format
+#, c-format
 msgid "Your card has expired. Please contact the library for more information."
-msgstr ". Contacta amb la biblioteca per a més informació."
+msgstr "El teu carnet ha caducat. Contacta amb la biblioteca per a més informació."
 
 #: opac-tmpl/prog/en/modules/opac-user.tt:90
 #, c-format
@@ -14827,7 +14826,7 @@ msgid "Your password must be at least %s characters long."
 msgstr "La teva contrasenya ha de tenir com a mínim  %s caracters."
 
 #: opac-tmpl/prog/en/modules/opac-privacy.tt:21
-#, fuzzy, c-format
+#, c-format
 msgid "Your privacy rules have been updated."
 msgstr "Les teves normes de privacitat s'han actualitzat"
 
@@ -14924,9 +14923,8 @@ msgstr "[% biblionumber |url %]"
 
 #. INPUT type=text name=borrower_dateofbirth
 #: opac-tmpl/prog/en/modules/opac-memberentry.tt:169
-#, fuzzy
 msgid "[% borrower.dateofbirth | $KohaDates %]"
-msgstr "[% BORROWER_INF.dateofbirth | $KohaDates %]"
+msgstr "[% borrower.dateofbirth | $KohaDates %]"
 
 #. A
 #: opac-tmpl/prog/en/includes/opac-facets.inc:24
@@ -14966,9 +14964,8 @@ msgstr "[% shelfname |html %]"
 
 #. INPUT type=text name=title
 #: opac-tmpl/prog/en/modules/opac-suggestions.tt:159
-#, fuzzy
 msgid "[% title |html %]"
-msgstr "[% ms_value |html %]"
+msgstr "[% títol |html %]"
 
 #: opac-tmpl/prog/en/modules/opac-memberentry.tt:246
 #, c-format
@@ -15048,9 +15045,9 @@ msgstr "] %s %s %s %s %s %s %s %s %s %s %s %s %s %s %s %s"
 #. %2$s:  END
 #. %3$s:  available_items_loo.count
 #: opac-tmpl/prog/en/modules/opac-results.tt:546
-#, fuzzy, c-format
+#, c-format
 msgid "]%s %s (%s), "
-msgstr "]%s %s (%s), %s "
+msgstr "]%s %s (%s), "
 
 #. %1$s:  END
 #. %2$s:  END
@@ -15128,9 +15125,9 @@ msgid "abcdfijkmnpvxyz"
 msgstr "abcdfijkmnpvxyz"
 
 #: opac-tmpl/prog/en/xslt/MARC21slim2OPACDetail.xsl:747
-#, fuzzy, c-format
+#, c-format
 msgid "abcdgo"
-msgstr "abcd"
+msgstr "abcdgo"
 
 #: opac-tmpl/prog/en/xslt/UNIMARCslim2OPACDetail.xsl:265
 #, c-format
@@ -15365,9 +15362,8 @@ msgstr "disponible en línia "
 
 #. SCRIPT
 #: opac-tmpl/prog/en/modules/opac-detail.tt:24
-#, fuzzy
 msgid "average rating:"
-msgstr "valoració mitja: %s (%s vots)"
+msgstr "valoració mitja:"
 
 #. %1$s:  rating_avg_int
 #. %2$s:  rating_total
@@ -15461,7 +15457,6 @@ msgstr "paper bristol"
 #. For the first occurrence,
 #. SCRIPT
 #: opac-tmpl/prog/en/modules/opac-detail.tt:24
-#, fuzzy
 msgid "by"
 msgstr "per "
 
@@ -15615,7 +15610,7 @@ msgid "contains"
 msgstr "conté"
 
 #: opac-tmpl/prog/en/includes/subtypes_unimarc.inc:59
-#, fuzzy, c-format
+#, c-format
 msgid "contains biographical data"
 msgstr "conté dades biogràfiques"
 
@@ -15725,9 +15720,9 @@ msgid "dissertation or thesis"
 msgstr "dissertació o tesi"
 
 #: opac-tmpl/prog/en/includes/subtypes_unimarc.inc:108
-#, fuzzy, c-format
+#, c-format
 msgid "dissertation or thesis (revised)"
-msgstr "dissertació o tesi"
+msgstr "dissertació o tesi (revisat)"
 
 #: opac-tmpl/prog/en/includes/subtypes_unimarc.inc:39
 #, c-format
@@ -15757,9 +15752,9 @@ msgid "electronic "
 msgstr "electrònic"
 
 #: opac-tmpl/prog/en/includes/subtypes_unimarc.inc:29
-#, fuzzy, c-format
+#, c-format
 msgid "electronic ressource"
-msgstr "Recursos electrònics"
+msgstr "Recurs electrònic"
 
 #: opac-tmpl/prog/en/modules/errors/403.tt:17
 #: opac-tmpl/prog/en/modules/errors/404.tt:17
@@ -16254,9 +16249,9 @@ msgid "letters"
 msgstr "cartes"
 
 #: opac-tmpl/prog/en/includes/subtypes_unimarc.inc:46
-#, fuzzy, c-format
+#, c-format
 msgid "libretto"
-msgstr "de llibret, "
+msgstr "libretto"
 
 #: opac-tmpl/prog/en/modules/ilsdi.tt:308
 #, c-format
@@ -16366,9 +16361,9 @@ msgid "microfilm reel "
 msgstr "rotlle de microfilm "
 
 #: opac-tmpl/prog/en/includes/subtypes_unimarc.inc:30
-#, fuzzy, c-format
+#, c-format
 msgid "microform"
-msgstr "microfilm "
+msgstr "microform"
 
 #: opac-tmpl/prog/en/xslt/MARC21slim2OPACResults.xsl:255
 #, c-format
@@ -16427,7 +16422,7 @@ msgid "multimedia"
 msgstr "multimèdia"
 
 #: opac-tmpl/prog/en/includes/subtypes_unimarc.inc:48
-#, fuzzy, c-format
+#, c-format
 msgid "multiple/other literary forms"
 msgstr "múltiple/altres formes literàries"
 
@@ -16509,7 +16504,7 @@ msgid "no illustrations"
 msgstr "sense il·lustracions"
 
 #: opac-tmpl/prog/en/includes/subtypes_unimarc.inc:167
-#, fuzzy, c-format
+#, c-format
 msgid "normalised irregular"
 msgstr "Irregular normalitzat"
 
@@ -16519,7 +16514,7 @@ msgid "not"
 msgstr "no"
 
 #: opac-tmpl/prog/en/includes/subtypes_unimarc.inc:55
-#, fuzzy, c-format
+#, c-format
 msgid "not a biography"
 msgstr "No és una biografia"
 
@@ -16631,7 +16626,7 @@ msgid "or"
 msgstr "o"
 
 #: opac-tmpl/prog/en/modules/opac-auth.tt:90
-#, fuzzy, c-format
+#, c-format
 msgid "or "
 msgstr "o"
 
@@ -16801,7 +16796,7 @@ msgid "pre-primary (0-5)"
 msgstr "preescolar (0-5)"
 
 #: opac-tmpl/prog/en/includes/subtypes_unimarc.inc:9
-#, fuzzy, c-format
+#, c-format
 msgid "primary (5-8)"
 msgstr "Primària (5-8)"
 
@@ -16853,14 +16848,14 @@ msgid "reformatted digital "
 msgstr "digital reformatejat"
 
 #: opac-tmpl/prog/en/modules/opac-auth.tt:90
-#, fuzzy, c-format
+#, c-format
 msgid "register here"
-msgstr "Registres"
+msgstr "Registre aquí"
 
 #: opac-tmpl/prog/en/includes/subtypes_unimarc.inc:166
-#, fuzzy, c-format
+#, c-format
 msgid "regular"
-msgstr "irregular"
+msgstr "regular"
 
 #: opac-tmpl/prog/en/includes/subtypes_unimarc.inc:21
 #, c-format
@@ -16878,9 +16873,9 @@ msgid "rehearsal "
 msgstr "assaig"
 
 #: opac-tmpl/prog/en/includes/subtypes_unimarc.inc:109
-#, fuzzy, c-format
+#, c-format
 msgid "religious text"
-msgstr "Compartir a Delicious"
+msgstr "text religiós"
 
 #. IMG
 #: opac-tmpl/prog/en/xslt/MARC21slim2OPACResults.xsl:183
@@ -17533,9 +17528,8 @@ msgstr "fil de gravació"
 
 #. SCRIPT
 #: opac-tmpl/prog/en/modules/opac-detail.tt:24
-#, fuzzy
 msgid "with biblionumber"
-msgstr "[% biblionumber |url %]"
+msgstr "amb biblionumber"
 
 #: opac-tmpl/prog/en/modules/sco/sco-main.tt:225
 #, c-format
@@ -17563,7 +17557,7 @@ msgid "you"
 msgstr "tu"
 
 #: opac-tmpl/prog/en/includes/subtypes_unimarc.inc:11
-#, fuzzy, c-format
+#, c-format
 msgid "young adult"
 msgstr "Adult jove"
 
@@ -17575,9 +17569,8 @@ msgstr "pàgina del teu compte"
 
 #. SCRIPT
 #: opac-tmpl/prog/en/modules/opac-detail.tt:24
-#, fuzzy
 msgid "your rating:"
-msgstr "valoració: %s "
+msgstr "la teva valoració: "
 
 #. %1$s:  rating_value
 #: opac-tmpl/prog/en/modules/opac-detail.tt:868
