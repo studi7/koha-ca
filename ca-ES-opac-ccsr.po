@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Koha 3.10\n"
 "POT-Creation-Date: 2013-07-17 10:27-0300\n"
-"PO-Revision-Date: 2013-08-17 13:31+0100\n"
+"PO-Revision-Date: 2013-10-24 20:43+0100\n"
 "Last-Translator: Roger Pàmies <roger.pamies@gmail.com>\n"
 "Language-Team: Koha Translation Team <koha-translate@lists.koha-community.org>\n"
 "Language: cat\n"
@@ -639,7 +639,7 @@ msgstr "Historial de cerca"
 #: opac-tmpl/ccsr/en/includes/masthead.inc:80
 #, c-format
 msgid "Series"
-msgstr "Publicacions periòdiques"
+msgstr "Col·lecció"
 
 #. SCRIPT
 #: opac-tmpl/ccsr/en/includes/doc-head-close.inc:63

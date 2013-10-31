@@ -2,8 +2,13 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Koha 3.10\n"
 "POT-Creation-Date: 2013-08-15 23:22-0300\n"
+<<<<<<< .mine
+"PO-Revision-Date: 2013-10-25 12:16+0100\n"
+"Last-Translator: Roger Pàmies <roger.pamies@gmail.com>\n"
+=======
 "PO-Revision-Date: 2013-09-25 15:17+0100\n"
 "Last-Translator: Roger Pàmies <info@studi7.com>\n"
+>>>>>>> .r5
 "Language-Team: Koha Translation Team <koha-translate@lists.koha-community.org>\n"
 "Language: cat\n"
 "MIME-Version: 1.0\n"
@@ -4364,9 +4369,9 @@ msgstr "%s Mai no has demanat un préstec en aquesta biblioteca. %s "
 #: opac-tmpl/prog/en/modules/opac-memberentry.tt:331
 #: opac-tmpl/prog/en/modules/opac-memberentry.tt:523
 #: opac-tmpl/prog/en/modules/opac-memberentry.tt:690
-#, fuzzy, c-format
+#, c-format
 msgid "%s Zip/Postal code:"
-msgstr "Codi postal:"
+msgstr "%s Codi postal:"
 
 #. %1$s:  UNLESS ( item_level_itypes )
 #. %2$s:  IF ( description )
@@ -4830,9 +4835,9 @@ msgstr "%s%s (%s)%s"
 #. %2$s:  LibraryNameTitle or "Koha online"
 #. %3$s:  title |html
 #: opac-tmpl/prog/en/modules/opac-review.tt:1
-#, fuzzy, c-format
+#, c-format
 msgid "%s%s catalog &rsaquo; Comments on %s "
-msgstr "%s%s catàleg &rsaquo; Comentaris sobre %s %s "
+msgstr "%s%s catàleg &rsaquo; Comentaris sobre %s "
 
 #. %1$s:  IF SeparateHoldings
 #. %2$s:  LoginBranchname
@@ -4840,9 +4845,9 @@ msgstr "%s%s catàleg &rsaquo; Comentaris sobre %s %s "
 #. %4$s:  END
 #. %5$s:  itemloop.size || 0
 #: opac-tmpl/prog/en/modules/opac-detail.tt:909
-#, fuzzy, c-format
+#, c-format
 msgid "%s%s holdings%sHoldings%s ( %s )"
-msgstr "Fons ( %s )"
+msgstr "%s%s exemplars%sExemplars%s ( %s )"
 
 #. %1$s:  deleted_count
 #. %2$s:  IF ( deleted_count ==1 )
@@ -5344,7 +5349,7 @@ msgstr "%sCompte bloquejat %s %s"
 #: opac-tmpl/prog/en/includes/opac-facets.inc:12
 #, c-format
 msgid "%sAuthors%s %sTitles%s %sTopics%s %sPlaces%s %sSeries%s %sItem types%s %s %sLibraries%s %s %sLocations%s "
-msgstr "%sAutors%s %sTítols%s %sMatèries%s %sLlocs%s %sSeries%s %sTipus d'exemplar%s %s %sBiblioteques%s %s %sLocalitzacions%s "
+msgstr "%sAutors%s %sTítols%s %sMatèries%s %sLlocs%s %sCol·leccions%s %sTipus d'exemplar%s %s %sBiblioteques%s %s %sLocalitzacions%s "
 
 #. %1$s:  IF ( latestserial.status1 )
 #. %2$s:  ELSE
@@ -9543,9 +9548,9 @@ msgid "HoldTitle"
 msgstr "HoldTitle"
 
 #: opac-tmpl/prog/en/modules/opac-MARCdetail.tt:184
-#, fuzzy, c-format
+#, c-format
 msgid "Holdings"
-msgstr "Fons:"
+msgstr "Exemplars:"
 
 #: opac-tmpl/prog/en/xslt/MARC21slim2OPACDetail.xsl:773
 #, fuzzy, c-format
@@ -11288,7 +11293,7 @@ msgid "Online resources:"
 msgstr "Recursos en línia:"
 
 #: opac-tmpl/prog/en/xslt/MARC21slim2OPACDetail.xsl:552
-#, fuzzy, c-format
+#, c-format
 msgid "Online resources: "
 msgstr "Recursos en línia:"
 
@@ -11369,7 +11374,7 @@ msgid "Other editions of this work"
 msgstr "Altres edicions d'aquest treball"
 
 #: opac-tmpl/prog/en/xslt/MARC21slim2OPACDetail.xsl:785
-#, fuzzy, c-format
+#, c-format
 msgid "Other editions: "
 msgstr "Altres edicions: "
 
@@ -11380,9 +11385,9 @@ msgstr "Altres formes:"
 
 #. %1$s:  otheritemloop.size || 0
 #: opac-tmpl/prog/en/modules/opac-detail.tt:912
-#, fuzzy, c-format
+#, c-format
 msgid "Other holdings ( %s )"
-msgstr "Fons ( %s )"
+msgstr "Altres exemplars ( %s )"
 
 #: opac-tmpl/prog/en/xslt/MARC21slim2OPACResults.xsl:922
 #: opac-tmpl/prog/en/xslt/MARC21slim2OPACResults.xsl:928
@@ -12210,9 +12215,9 @@ msgstr "Número de carnet:"
 #: opac-tmpl/prog/en/modules/opac-memberentry.tt:695
 #: opac-tmpl/prog/en/modules/opac-memberentry.tt:709
 #: opac-tmpl/prog/en/modules/opac-memberentry.tt:723
-#, fuzzy, c-format
+#, c-format
 msgid "Required"
-msgstr "(Obligatori)"
+msgstr "Obligatori"
 
 #. INPUT type=submit
 #: opac-tmpl/prog/en/modules/opac-shelves.tt:341
@@ -12749,14 +12754,14 @@ msgstr "Títol de la sèrie"
 #: opac-tmpl/prog/en/modules/opac-detail.tt:595
 #, c-format
 msgid "Series:"
-msgstr "Publicacions periòdiques:"
+msgstr "Col·lecció:"
 
 #: opac-tmpl/prog/en/xslt/NORMARCslim2OPACDetail.xsl:180
 #: opac-tmpl/prog/en/xslt/MARC21slim2OPACDetail.xsl:168
 #: opac-tmpl/prog/en/xslt/MARC21slim2OPACDetail.xsl:175
 #, c-format
 msgid "Series: "
-msgstr "Publicacions periòdiques: "
+msgstr "Col·lecció: "
 
 #: opac-tmpl/prog/en/modules/sco/sco-main.tt:213
 #, c-format
@@ -12978,7 +12983,7 @@ msgid "Sorry, the system doesn't think you have permission to access this page. 
 msgstr "Ho sentim, el sistema considera que no té permisos per accedir a aquesta pàgina. "
 
 #: opac-tmpl/prog/en/modules/sco/sco-main.tt:116
-#, fuzzy, c-format
+#, c-format
 msgid "Sorry, this item cannot be checked out at this station. "
 msgstr "Ho sentim, aquest ítem no es pot prestar des d'aquí."
 
@@ -13015,7 +13020,7 @@ msgid "Sort by:"
 msgstr "Ordena per:"
 
 #: opac-tmpl/prog/en/modules/opac-shelves.tt:298
-#, fuzzy, c-format
+#, c-format
 msgid "Sort by: "
 msgstr "Ordena per:"
 
@@ -16526,7 +16531,7 @@ msgstr "no és un text literari"
 #: opac-tmpl/prog/en/xslt/MARC21slim2OPACResults.xsl:701
 #, c-format
 msgid "not fiction "
-msgstr "no ficció"
+msgstr "no definida"
 
 #. IMG
 #: opac-tmpl/prog/en/xslt/MARC21slim2OPACResults.xsl:301
@@ -16798,18 +16803,18 @@ msgstr "preescolar (0-5)"
 #: opac-tmpl/prog/en/includes/subtypes_unimarc.inc:9
 #, c-format
 msgid "primary (5-8)"
-msgstr "Primària (5-8)"
+msgstr "primària (5-8)"
 
 #: opac-tmpl/prog/en/includes/subtypes_unimarc.inc:185
 #, c-format
 msgid "print"
-msgstr "imprimeix"
+msgstr "imprès"
 
 #: opac-tmpl/prog/en/xslt/MARC21slim2OPACResults.xsl:93
 #: opac-tmpl/prog/en/xslt/MARC21slim2OPACResults.xsl:294
 #, c-format
 msgid "print "
-msgstr "imprimeix"
+msgstr "imprès"
 
 #: opac-tmpl/prog/en/xslt/MARC21slim2OPACResults.xsl:224
 #, c-format
@@ -16850,7 +16855,11 @@ msgstr "digital reformatejat"
 #: opac-tmpl/prog/en/modules/opac-auth.tt:90
 #, c-format
 msgid "register here"
+<<<<<<< .mine
+msgstr "registre aqui"
+=======
 msgstr "Registre aquí"
+>>>>>>> .r5
 
 #: opac-tmpl/prog/en/includes/subtypes_unimarc.inc:166
 #, c-format
@@ -17570,7 +17579,11 @@ msgstr "pàgina del teu compte"
 #. SCRIPT
 #: opac-tmpl/prog/en/modules/opac-detail.tt:24
 msgid "your rating:"
+<<<<<<< .mine
+msgstr "valoració:"
+=======
 msgstr "la teva valoració: "
+>>>>>>> .r5
 
 #. %1$s:  rating_value
 #: opac-tmpl/prog/en/modules/opac-detail.tt:868
