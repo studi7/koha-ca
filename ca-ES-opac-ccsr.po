@@ -359,7 +359,7 @@ msgstr "%s%s%s%s%s"
 #: opac-tmpl/ccsr/en/includes/top-bar.inc:66
 #, c-format
 msgid "%sLog Out"
-msgstr "%sSortir"
+msgstr "%sSurt"
 
 #: opac-tmpl/ccsr/en/includes/masthead.inc:227
 #, c-format
@@ -369,7 +369,7 @@ msgstr "&raquo;"
 #. SCRIPT
 #: opac-tmpl/ccsr/en/includes/doc-head-close.inc:63
 msgid "Add to your cart"
-msgstr "Afegir al carret"
+msgstr "Afegeix al carret"
 
 #: opac-tmpl/ccsr/en/includes/masthead.inc:194
 #, c-format
@@ -458,7 +458,7 @@ msgstr "Errors: "
 #: opac-tmpl/ccsr/en/includes/masthead.inc:139
 #: opac-tmpl/ccsr/en/includes/masthead.inc:186
 msgid "Go"
-msgstr "Anar"
+msgstr "Vés"
 
 #. OPTGROUP
 #: opac-tmpl/ccsr/en/includes/masthead.inc:113
@@ -583,7 +583,7 @@ msgstr "Nota: només pots eliminar les teves etiquetes."
 #. SCRIPT
 #: opac-tmpl/ccsr/en/includes/doc-head-close.inc:63
 msgid "Note: you can only tag an item with a given term once. Check 'My Tags' to see your current tags."
-msgstr "Nota: només pots etiqueta un ítem amb un terme cada vegada. Comprova \"Les meves etiquetes\" per veure les teves etiquetes. "
+msgstr "Nota: només pots etiquetar un ítem amb un terme cada vegada. Comprova \"Les meves etiquetes\" per veure les teves etiquetes. "
 
 #. SCRIPT
 #: opac-tmpl/ccsr/en/includes/doc-head-close.inc:63
@@ -761,12 +761,12 @@ msgstr "[Nou llistat]"
 #: opac-tmpl/ccsr/en/includes/top-bar.inc:23
 #, c-format
 msgid "[View All]"
-msgstr "[Veureu tot]"
+msgstr "[Visualitza tot]"
 
 #: opac-tmpl/ccsr/en/includes/top-bar.inc:36
 #, c-format
 msgid "[View all]"
-msgstr "[Veureu tot]"
+msgstr "[Visualitza tot]"
 
 #. SCRIPT
 #: opac-tmpl/ccsr/en/includes/doc-head-close.inc:63
